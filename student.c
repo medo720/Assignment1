@@ -322,3 +322,19 @@ int main()
 
     return 0;
 }
+//function we used to calc time of all functions
+//clock_t start,end;
+//double cpu_time_used;
+//start=clock();
+            {
+              //The function//
+
+            }
+//end=clock();
+//cpu_time_used=((double)(end-start))/ CLOCKS_PER_SEC ;
+//printf(" time taken by function is %lf\n",cpu_time_used)
+/////////////////
+//function we used to calc size
+//printf("size of structure of data:%d\n",sizeof(struct student));
+//   printf("size of node :%d\n",sizeof(struct Node));
+
